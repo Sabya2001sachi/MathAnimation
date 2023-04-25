@@ -1,6 +1,6 @@
 # Math Anim
 
-This is a tool I use to create animations for my videos on my YouTube channel. You can see an example of a video created using this tool [here](https://www.youtube.com/watch?v=iydG-e1dQGA). My goal is to have nearly identical animations to those produced by [Manim](https://www.manim.community), except in realtime with a GUI+audio preview to enhance the editing process.
+This is a tool I use to create animations for my videos on my  YouTube channel. You can see an example of a video created using this tool [here](https://www.youtube.com/watch?v=iydG-e1dQGA). My goal is to have nearly identical animations  to those produced by [Manim](https://www.manim.community), except in realtime with a GUI+audio preview to enhance the editing process.
 
 This is a small GIF showcasing some of the capabilities of this tool:
 
